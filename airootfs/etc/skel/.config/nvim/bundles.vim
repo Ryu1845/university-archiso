@@ -21,23 +21,24 @@ call plug#begin(stdpath('config') . '/bundle')
 " APPEARANCE
     Plug 'hoob3rt/lualine.nvim'
     Plug 'kyazdani42/nvim-web-devicons'
-    Plug 'L3MON4D3/LuaSnip'
     Plug 'lukas-reineke/indent-blankline.nvim'
     Plug 'dracula/vim', { 'as': 'dracula' }
 " UTILITIES
     Plug 'ms-jpq/chadtree', {'branch': 'chad', 'do': 'python3 -m chadtree deps'}
     Plug 'jghauser/kitty-runner.nvim'
     Plug 'lukas-reineke/format.nvim'
+    Plug 'sirver/ultisnips'
+        let g:UltiSnipsExpandTrigger = '<tab>'
+        let g:UltiSnipsJumpForwardTrigger = '<tab>'
+        let g:UltiSnipsJumpBackwardTrigger = '<s-tab>'
 " DEVELOPER
-    Plug 'neovim/nvim-lspconfig'
-
-    Plug 'hrsh7th/nvim-cmp'
-    Plug 'hrsh7th/cmp-buffer'
-    Plug 'saadparwaiz1/cmp_luasnip'
-    Plug 'hrsh7th/cmp-nvim-lsp'
-
-    Plug 'neomake/neomake'
     Plug 'stevearc/qf_helper.nvim'
-
-    Plug 'tmhedberg/SimpylFold'
+    Plug 'lervag/vimtex'
+        let g:tex_flavor='latex'
+        let g:vimtex_view_method='zathura'
+        let g:vimtex_quickfix_mode=0
+    Plug 'KeitaNakamura/tex-conceal.vim'
+        set conceallevel=1
+        let g:tex_conceal='abdmg'
+        hi Conceal ctermbg=none
 call plug#end()
