@@ -88,7 +88,10 @@ pcsclite
 ppp
 pptpclient
 pv
+python-black
+python-isort
 python-pygments
+python-pylint
 qemu-guest-agent
 qtile
 reflector
