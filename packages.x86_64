@@ -5,6 +5,7 @@ archinstall
 b43-fwcutter
 base
 bind-tools
+bottom
 brltty
 broadcom-wl
 btrfs-progs
@@ -29,6 +30,7 @@ exfatprogs
 f2fs-tools
 fatresize
 fsarchiver
+git
 gnu-netcat
 gpart
 gpm
@@ -36,6 +38,7 @@ gptfdisk
 grml-zsh-config
 hdparm
 intel-ucode
+inkscape
 ipw2100-fw
 ipw2200-fw
 irssi
@@ -67,6 +70,8 @@ mtools
 nano
 nbd
 ndisc6
+neovim
+neovim-qt
 nfs-utils
 nilfs-utils
 nmap
@@ -78,11 +83,14 @@ openvpn
 partclone
 parted
 partimage
+pcmanfm
 pcsclite
 ppp
 pptpclient
 pv
+python-pygments
 qemu-guest-agent
+qtile
 reflector
 reiserfsprogs
 rp-pppoe
@@ -100,6 +108,7 @@ systemd-resolvconf
 tcpdump
 terminus-font
 testdisk
+texlive-latexextra
 tmux
 tpm2-tss
 udftools
