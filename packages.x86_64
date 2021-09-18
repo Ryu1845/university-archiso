@@ -59,6 +59,7 @@ linux-firmware
 livecd-sounds
 lsd
 lsscsi
+lua
 lvm2
 lynx
 man-db
@@ -127,7 +128,6 @@ testdisk
 texlive-latexextra
 tmux
 tpm2-tss
-ttf-nerd-fonts-symbols-mono
 udftools
 usb_modeswitch
 usbmuxd
