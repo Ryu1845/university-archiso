@@ -93,6 +93,9 @@ ppp
 pptpclient
 pv
 python-black
+python-google-api-python-client
+python-google-auth
+python-google-auth-oauthlib
 python-isort
 python-pygments
 python-pylint
