@@ -45,6 +45,7 @@ irssi
 iw
 iwd
 jfsutils
+kitty
 kitty-terminfo
 less
 lftp
@@ -99,8 +100,10 @@ python-google-api-python-client
 python-google-auth
 python-google-auth-oauthlib
 python-isort
+python-pip
 python-pygments
 python-pylint
+python-pynvim
 qemu-guest-agent
 qtile
 reflector
@@ -124,6 +127,7 @@ testdisk
 texlive-latexextra
 tmux
 tpm2-tss
+ttf-nerd-fonts-symbols-mono
 udftools
 usb_modeswitch
 usbmuxd
@@ -135,10 +139,14 @@ wireless-regdb
 wireless_tools
 wpa_supplicant
 wvdial
+xclip
+xsel
+xdotool
 xf86-video-amdgpu
 xf86-video-ati
 xfsprogs
 xl2tpd
 xorg-server
 zathura
+zathura-pdf-mupdf
 zsh
