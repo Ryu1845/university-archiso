@@ -50,6 +50,8 @@ less
 lftp
 libfido2
 libusb-compat
+lightdm
+lightdm-gtk-greeter
 linux
 linux-atm
 linux-firmware
