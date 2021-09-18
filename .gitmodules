@@ -1,0 +1,3 @@
+[submodule "airootfs/etc/skel/university-setup"]
+	path = airootfs/etc/skel/university-setup
+	url = git@github.com:Ryu1845/university-setup.git
