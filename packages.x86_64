@@ -36,7 +36,6 @@ gnu-netcat
 gpart
 gpm
 gptfdisk
-grml-zsh-config
 hdparm
 intel-ucode
 inkscape
@@ -57,6 +56,7 @@ linux
 linux-atm
 linux-firmware
 livecd-sounds
+lsd
 lsscsi
 lvm2
 lynx
@@ -65,6 +65,7 @@ man-pages
 mc
 mdadm
 memtest86+
+mesa
 mkinitcpio
 mkinitcpio-archiso
 mkinitcpio-nfs-utils
@@ -81,6 +82,7 @@ nmap
 ntfs-3g
 nvme-cli
 openconnect
+opendoas
 openssh
 openvpn
 partclone
@@ -133,7 +135,10 @@ wireless-regdb
 wireless_tools
 wpa_supplicant
 wvdial
+xf86-video-amdgpu
+xf86-video-ati
 xfsprogs
 xl2tpd
+xorg-server
 zathura
 zsh
