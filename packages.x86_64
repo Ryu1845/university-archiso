@@ -29,6 +29,7 @@ ethtool
 exfatprogs
 f2fs-tools
 fatresize
+firefox
 fsarchiver
 git
 gnu-netcat
@@ -99,6 +100,7 @@ qemu-guest-agent
 qtile
 reflector
 reiserfsprogs
+rofi
 rp-pppoe
 rsync
 rxvt-unicode-terminfo
@@ -130,4 +132,5 @@ wpa_supplicant
 wvdial
 xfsprogs
 xl2tpd
+zathura
 zsh
